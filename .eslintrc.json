@@ -1,12 +1,17 @@
 {
-  "extends": ["next/core-web-vitals", "eslint:recommended", "prettier"],
-  "plugins": ["react", "prettier"],
-  "parserOptions": {
-    "ecmaFeatures": {
-      "jsx": true
-    }
-  },
-  "rules": {
-    "prettier/prettier": "error"
-  }
+	"extends": ["next/core-web-vitals", "eslint:recommended", "prettier"],
+	"plugins": ["react", "prettier"],
+	"parserOptions": {
+		"ecmaFeatures": {
+			"jsx": true
+		}
+	},
+	"rules": {
+		"prettier/prettier": [
+			"error",
+			{
+				"endOfLine": "auto"
+			}
+		]
+	}
 }
