@@ -1,0 +1,7 @@
+max_width = 100
+hard_tabs = true
+tab_spaces = 2
+newline_style = "Unix"
+reorder_imports = true
+reorder_modules = true
+remove_nested_parens = true
