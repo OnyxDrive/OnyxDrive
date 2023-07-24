@@ -1,10 +1,10 @@
-name: Rust
+name: Main
 
 on:
   push:
-    branches: [ "dev" ]
+    branches: [ "dev", "main" ]
   pull_request:
-    branches: [ "dev" ]
+    branches: [ "dev", "main" ]
 
 env:
   CARGO_TERM_COLOR: always
@@ -14,7 +14,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        platform: [macos-latest, ubuntu-20.04, windows-latest]
+        platform: [macos-latest] # ubuntu-20.04, windows-latest
 
     runs-on: ${{ matrix.platform }}
     steps:
@@ -36,6 +36,6 @@ jobs:
         run: npm run eslint
       - name: run rust linter
         run: npm run lrust
-      - uses: tauri-apps/tauri-action@v0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #- uses: tauri-apps/tauri-action@v0
+      #  env:
+      #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
