@@ -13,13 +13,6 @@
     <a href="https://onyxapp.io/"><strong>Explore your productivity » </strong></a>
     <br />
     <br />
-    <a href="">View Demo</a>
-    ·
-    <a href="">Report Bug</a>
-    ·
-    <a href="">Request Feature</a>
-    <br />
-    <br />
     <a href="https://twitter.com/onyxapp_io">Twitter</a>
     ·
     <a href="https://discord.gg/8DQa2qNM">Discord</a>
@@ -35,11 +28,11 @@
 
 ---
 
-🔮 _**Onyx Drive**_ is open-source new generation file management system designed to increase producitvity while working with files ⚡⚡⚡
+🔮 _**Onyx Drive**_ is an open-source file management system that is designed to enhance productivity while working with files.
 
-Have you ever had a problem "in what folder should I place this file.." and then forgeting where did you placed it afterwards? Not anymore.
+Have you ever struggled with deciding where to put this file and then forgetting where it was later? Not anymore.
 
-⚡ Organize and consolidate all your drawings, documents, videos, etc in one workspace. Find anything you need within seconds - we'll provide the best UX you ever had. 
+⚡ Organize and consolidate all your drawings, documents, videos, etc. into a single workspace. Find anything you need within seconds - not minutes. 
 
 ---
 ## Features
@@ -48,44 +41,36 @@ Have you ever had a problem "in what folder should I place this file.." and then
 
 🔥 _**Views**: Filter, Sort and Group by documents with reusable views inspired by [Notion]()._ 
 
-🔥 _**Smart folders**: Create any multiple hierarchies of same files in any way you want_
+🔥 _**Smart folders**: Create some multiple hierarchies of the same files in any way you want._
 
-🔥 _**Search**: Use most powerfull search to scan through your documents content._ 
+🔥 _**Search**: Use the most powerful search to scan through your document's content._ 
 
-🔥 _**Desktop & Cloud**: Use app as usefull desktop finder alternative, sync required data without problems._ 
+🔥 _**Desktop & Cloud**: Use app as a usefull desktop finder alternative, sync required data without problems._ 
 
-🔥 _**Customize**: Change folders/files icons, use different color themes_
+🔥 _**Customize**: Change folders/files icons, use different color themes._
 
-~ Out goal is to make the BEST user experience for file manegement system ~
+~ Out goal is to make the BEST user experience for file management system ~
 
 ### Built With
 
-Out app is built with those beautiful technologies
+Our app is built with those beautiful technologies:
 
-- [Rust]()
-- [Tauri]()
-- [React]()
-- [Typescript]()
-
-<!-- ROADMAP -->
-## Roadmap
-
-You can view our guidelines here: https://onyxapp.io/roadmap
+- [Rust](https://www.rust-lang.org/)
+- [Tauri](https://tauri.app/)
+- [React](https://react.dev/)
+- [Typescript](https://www.typescriptlang.org/)
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-You can contribute in 3 different ways: 
-- For any enchancement ideas you can create `issue` with enchancement tag.
+- For any enhancement ideas you can create `issue` with enhancement tag.
 - If you have bug report - you should create `issue` with bug tag.
-- If you want to contribute with code - please check out our [contributing]() guidelines.
+- If you want to contribute with code - please check out our [CONTRIBUTING.md](CONTRIBUTING.md) file with guidelines.
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the X License. See `LICENSE.md` for more information.
+See the [LICENSE.md](LICENSE.md) file for licensing information as it pertains to files in this repository.
 
 <!-- CONTACT -->
 ## Contact
