@@ -76,8 +76,3 @@ See the [LICENSE.md](LICENSE.md) file for licensing information as it pertains t
 ## Contact
 
 Onyx - [@onyxapp_io](https://twitter.com/onyxapp_io) - onyx.drive.organization@gmail.com
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
