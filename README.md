@@ -22,6 +22,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 <img width="1183" alt="image" src="https://github.com/OnyxDrive/OnyxDrive/assets/46647517/4330d5f8-b3fb-49a6-a013-de1e903a3801">
@@ -32,20 +33,21 @@
 
 Have you ever struggled with deciding where to put this file and then forgetting where it was later? Not anymore.
 
-⚡ Organize and consolidate all your drawings, documents, videos, etc. into a single workspace. Find anything you need within seconds - not minutes. 
+⚡ Organize and consolidate all your drawings, documents, videos, etc. into a single workspace. Find anything you need within seconds - not minutes.
 
 ---
+
 ## Features
 
 🔥 _**Meta**: Add any metadata to your files and folders to sort through them later._
 
-🔥 _**Views**: Filter, Sort and Group by documents with reusable views inspired by [Notion]()._ 
+🔥 _**Views**: Filter, Sort and Group by documents with reusable views inspired by [Notion]()._
 
 🔥 _**Smart folders**: Create some multiple hierarchies of the same files in any way you want._
 
-🔥 _**Search**: Use the most powerful search to scan through your document's content._ 
+🔥 _**Search**: Use the most powerful search to scan through your document's content._
 
-🔥 _**Desktop & Cloud**: Use app as a usefull desktop finder alternative, sync required data without problems._ 
+🔥 _**Desktop & Cloud**: Use app as a usefull desktop finder alternative, sync required data without problems._
 
 🔥 _**Customize**: Change folders/files icons, use different color themes._
 
@@ -61,6 +63,7 @@ Our app is built with those beautiful technologies:
 - [Typescript](https://www.typescriptlang.org/)
 
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 - For any enhancement ideas you can create `issue` with enhancement tag.
@@ -68,11 +71,13 @@ Our app is built with those beautiful technologies:
 - If you want to contribute with code - please check out our [CONTRIBUTING.md](CONTRIBUTING.md) file with guidelines.
 
 <!-- LICENSE -->
+
 ## License
 
 See the [LICENSE.md](LICENSE.md) file for licensing information as it pertains to files in this repository.
 
 <!-- CONTACT -->
+
 ## Contact
 
 Onyx - [@onyxapp_io](https://twitter.com/onyxapp_io) - onyx.drive.organization@gmail.com

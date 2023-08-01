@@ -6,8 +6,8 @@ mod files;
 mod storage;
 
 fn main() {
-    tauri::Builder::default()
-        .invoke_handler(tauri::generate_handler![files::read_directory])
-        .run(tauri::generate_context!())
-        .expect("error while running tauri application");
+	tauri::Builder::default()
+		.invoke_handler(tauri::generate_handler![files::read_directory])
+		.run(tauri::generate_context!())
+		.expect("error while running tauri application");
 }

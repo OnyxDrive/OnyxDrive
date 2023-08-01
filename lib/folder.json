@@ -1,6 +1,16 @@
 [
 	{
-		"folderNames": ["document", "documents", "article", "articles", "documentation", "doc", "docs", "post", "posts"],
+		"folderNames": [
+			"document",
+			"documents",
+			"article",
+			"articles",
+			"documentation",
+			"doc",
+			"docs",
+			"post",
+			"posts"
+		],
 		"thumbnail": "folder/folder-document.svg"
 	},
 	{
@@ -8,7 +18,18 @@
 		"thumbnail": "folder/folder-download.svg"
 	},
 	{
-		"folderNames": ["picture", "pictures", "ico", "icon", "image", "icons", "images", "img", "screenshot", "screenshots"],
+		"folderNames": [
+			"picture",
+			"pictures",
+			"ico",
+			"icon",
+			"image",
+			"icons",
+			"images",
+			"img",
+			"screenshot",
+			"screenshots"
+		],
 		"thumbnail": "folder/folder-picture.svg"
 	},
 	{
@@ -114,7 +135,17 @@
 		"thumbnail": "folder/folder-archive.svg"
 	},
 	{
-		"folderNames": ["asset", "assets", "report", "reports", "res", "resources", "resource", "src", "static"],
+		"folderNames": [
+			"asset",
+			"assets",
+			"report",
+			"reports",
+			"res",
+			"resources",
+			"resource",
+			"src",
+			"static"
+		],
 		"type": "Resources",
 		"thumbnail": "folder/folder-resource.svg"
 	},

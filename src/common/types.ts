@@ -1,7 +1,7 @@
 type FileProperty = {
-  id: string // 1, 2, 3, 4, 5
-  name: string // Название, например "Номер телефона"
-  type: FilePropertyType
+	id: string // 1, 2, 3, 4, 5
+	name: string // Название, например "Номер телефона"
+	type: FilePropertyType
 }
 
 type FilePropertyType = 'text' | 'tag' | 'phone'

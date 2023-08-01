@@ -24,8 +24,7 @@ const Home = () => {
 		getFiles()
 	}, [getFiles])
 
-	const data: FileListElement[] =
-		files?.map((v) => ({ id: v.basename, name: v.basename })) ?? []
+	const data: FileListElement[] = files?.map((v) => ({ id: v.basename, name: v.basename })) ?? []
 	return (
 		<AppLayout>
 			<div className="flex h-full w-full flex-col items-center justify-center">

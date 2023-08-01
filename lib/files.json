@@ -40,7 +40,21 @@
 		"thumbnail": "extension/zip.svg"
 	},
 	{
-		"extensions": ["accdb", "db", "db3", "mdb", "pdb", "pgsql", "pkb", "pks", "postgres", "psql", "sql", "sqlite", "sqlite3"],
+		"extensions": [
+			"accdb",
+			"db",
+			"db3",
+			"mdb",
+			"pdb",
+			"pgsql",
+			"pkb",
+			"pks",
+			"postgres",
+			"psql",
+			"sql",
+			"sqlite",
+			"sqlite3"
+		],
 		"type": "Database",
 		"thumbnail": "extension/database.svg"
 	},
@@ -85,12 +99,45 @@
 		"thumbnail": "extension/txt.svg"
 	},
 	{
-		"extensions": ["jpg", "png", "gif", "bmp", "jpeg", "jpe", "jif", "jfif", "jfi", "webp", "tiff", "tif", "ico", "svg", "webp"],
+		"extensions": [
+			"jpg",
+			"png",
+			"gif",
+			"bmp",
+			"jpeg",
+			"jpe",
+			"jif",
+			"jfif",
+			"jfi",
+			"webp",
+			"tiff",
+			"tif",
+			"ico",
+			"svg",
+			"webp"
+		],
 		"type": "Image",
 		"thumbnail": "extension/image.svg"
 	},
 	{
-		"extensions": ["mp4", "webm", "mpg", "mp2", "mpeg", "mpe", "mpv", "ocg", "m4p", "m4v", "avi", "wmv", "mov", "qt", "flv", "swf"],
+		"extensions": [
+			"mp4",
+			"webm",
+			"mpg",
+			"mp2",
+			"mpeg",
+			"mpe",
+			"mpv",
+			"ocg",
+			"m4p",
+			"m4v",
+			"avi",
+			"wmv",
+			"mov",
+			"qt",
+			"flv",
+			"swf"
+		],
 		"type": "Video",
 		"thumbnail": "extension/video.svg"
 	},
@@ -180,7 +227,15 @@
 	},
 	{
 		"type": "Git",
-		"fileNames": [".gitignore", ".gitignore_global", ".gitconfig", ".gitattributes", ".gitmodules", ".gitkeep", "git-history"],
+		"fileNames": [
+			".gitignore",
+			".gitignore_global",
+			".gitconfig",
+			".gitattributes",
+			".gitmodules",
+			".gitkeep",
+			"git-history"
+		],
 		"thumbnail": "extension/git.svg"
 	},
 	{
@@ -240,13 +295,32 @@
 			"sln.dotsettings.user",
 			"cfg"
 		],
-		"fileNames": [".jshintignore", ".buildignore", ".mrconfig", ".yardopts", "manifest.mf", ".clang-format", ".clang-tidy"],
+		"fileNames": [
+			".jshintignore",
+			".buildignore",
+			".mrconfig",
+			".yardopts",
+			"manifest.mf",
+			".clang-format",
+			".clang-tidy"
+		],
 		"type": "Settings",
 		"thumbnail": "extension/settings.svg"
 	},
 	{
 		"type": "Visual Studio",
-		"extensions": ["csproj", "ruleset", "sln", "suo", "vb", "vbs", "vcxitems", "vcxitems.filters", "vcxproj", "vcxproj.filters"],
+		"extensions": [
+			"csproj",
+			"ruleset",
+			"sln",
+			"suo",
+			"vb",
+			"vbs",
+			"vcxitems",
+			"vcxitems.filters",
+			"vcxproj",
+			"vcxproj.filters"
+		],
 		"thumbnail": "extension/visualstudio.svg"
 	},
 	{
@@ -281,7 +355,15 @@
 	},
 	{
 		"type": "Yarn Package Manager",
-		"fileNames": [".yarnrc", "yarn.lock", ".yarnclean", ".yarn-integrity", "yarn-error.log", ".yarnrc.yml", ".yarnrc.yaml"],
+		"fileNames": [
+			".yarnrc",
+			"yarn.lock",
+			".yarnclean",
+			".yarn-integrity",
+			"yarn-error.log",
+			".yarnrc.yml",
+			".yarnrc.yaml"
+		],
 		"thumbnail": "extension/yarn.svg"
 	},
 	{

@@ -6,6 +6,7 @@
 			"jsx": true
 		}
 	},
+	"ignorePatterns": [".github/*", "public/*"],
 	"rules": {
 		"no-empty-pattern": "warn",
 		"prettier/prettier": [
