@@ -24,7 +24,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img width="1183" alt="image" src="https://github.com/OnyxDrive/OnyxDrive/assets/46647517/4330d5f8-b3fb-49a6-a013-de1e903a3801">
+![image](https://github.com/OnyxDrive/OnyxDrive/assets/46647517/57b68975-c627-4dcf-8daa-e32ea11c6e48)
+
 
 ---
 
